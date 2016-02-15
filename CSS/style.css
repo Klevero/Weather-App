@@ -1,0 +1,78 @@
+.bk_img_1 {
+	background-image: url(../images/color1.jpg);
+	background-size: cover; 
+    background-repeat: no-repeat;
+    margin: 0px;
+
+}
+
+.bk_img_2 {
+	background-image: url(../images/color2.jpg);
+	background-size: cover; 
+    background-repeat: no-repeat;
+    margin: 0px;
+
+}
+
+.header {
+	width: 100%;
+	height: 30%;
+	text-align: center;
+	background-color: #ffe6ff;
+	margin: 0;
+
+
+}
+
+.title {
+	font-family: Helvetica;
+	font-size: 100px;
+	color: #4c3663;
+	padding-top: 40px;
+}
+
+.inputs {
+	width: 100%;
+	margin-top: 50px;
+	text-align: center;
+
+}
+
+.input_temp {
+	width: 100px;
+	height: 100px;
+	background-color: #ffe6ff;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 70px;
+	color: white;
+	display: inline-block;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#submit, #reset {
+    background-color: #b3b3ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    cursor: pointer;
+    width: 215px;
+}
+
+#submit:hover, #reset:hover {
+background-image:none !important;
+background-color:#ff00ff !important;
+}
+
+
+
